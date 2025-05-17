@@ -18,8 +18,11 @@ public class C01_HelloWorld {
             satiri
             yorum satiri
             yapmis olursunuz
+
          */
+        System.out.println("Hello World");
     }
+
 
 
 }
