@@ -20,7 +20,7 @@ public class C01_HelloWorld {
             yapmis olursunuz
 
          */
-        System.out.println("Hello World");
+
     }
 
 
